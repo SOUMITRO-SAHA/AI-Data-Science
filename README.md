@@ -1,10 +1,10 @@
-# AI-And-Data-Science
+# AI-Data-Science
 
-Welcome to the AI-And-Data-Science repository! This repository is dedicated to storing notes, assignments, and daily learnings related to AI and Data Science.
+Welcome to the `AI-Data-Science` repository! This repository is dedicated to storing notes, assignments, and daily learnings related to AI and Data Science.
 
 ## Table of Contents
 
-- [AI-And-Data-Science](#ai-and-data-science)
+- [AI-Data-Science](#ai-data-science)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Structure](#structure)
@@ -22,7 +22,7 @@ This project is designed to be a comprehensive collection of all my learnings an
 The repository is structured as follows:
 
 ```txt
-AI-And-Data-Science/
+AI-Data-Science/
 │
 ├── Assignments/
 │ └── [Assignment-wise folders]
