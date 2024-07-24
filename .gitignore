@@ -1,0 +1,4 @@
+# Env Folders
+venv
+.venv
+.venv/*
